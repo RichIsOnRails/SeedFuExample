@@ -1,0 +1,2 @@
+== Seed Fu Example App
+See http://richonrails.com/articles/seeding-your-database-with-seed-fu for details.
